@@ -1,0 +1,18 @@
+
+body{
+    color: black;
+    background-color: #0ee832;
+    /* background-image: url(/image/logo.png); */
+    height: 14rem;
+    width: 21rem;
+    box-shadow: inset;
+    font-weight: 10px;
+    text-align: center;
+    font: bold;
+}
+p#jokeElement {
+    font-size: large;
+    text-align: center;
+    font-style: normal;
+    margin-top: 9rem;
+}

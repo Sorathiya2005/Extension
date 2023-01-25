@@ -1,0 +1,17 @@
+
+{
+    "manifest_version":3,
+    "name": "Sorathiya",
+    "version": "1.0",
+    "description": "My first Chrome extension.",
+    "action":{
+          "default_icon":"/image/logo.png",
+          "default_popup":"popup.py",
+          "default_popup_html":"popup.html"
+          
+    },
+    "icons":{
+        "128":"/image/logo.png"
+    },
+    "permissions":["activeTab"]
+}
